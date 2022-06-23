@@ -1,12 +1,7 @@
-## Hi there 👋
+# GGC
+> 🎉 GGC Study에 방문하신 것을 환영합니다!
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+본 스터디는 **매주 목요일 오후 9시 30분**에 구성원 모두가 1시간에서 2시간 정도의 온라인 미팅을 갖고, 한 주동안 해결해야 할 과제에 대한 이야기를 나누거나 업무 도중 발생한 이슈들에 대하여 가볍게 논의하는 시간을 갖습니다.  
+# 오픈소스
+GGC Organization에 오픈 되어있는 모든 Repository는 스터디에 사용되거나, 프레젠테이션에 사용 되었던 레포지토리입니다.  
+그 외에도 일부 GGC 취지에 맞는 토이 프로젝트들이 개설되어 있으므로 본 Organization에 방문하시는 모든 분들께서 열람하실 수 있습니다.
